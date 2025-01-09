@@ -1,5 +1,3 @@
-### README for the Compression Script
-
 # Archive Compression Utility
 
 This Python script allows you to compress files and directories into ZIP format. It offers two modes of compression:
